@@ -1,0 +1,2 @@
+# bangalore_coffee_shop_clustering
+The objective of this capstone project is to analyse and select the best locations in the city of Bangalore, India to open a new coffee shop. Using data science methodology and machine learning techniques like clustering, this project aims to provide solutions to answer the business question: In the city of Bangalore, India, if a property developer is looking to open a new coffee shop, where would you recommend that they open it?
